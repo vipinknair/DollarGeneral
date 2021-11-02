@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Dollar.Models.Home.CsvFields>
+@{
+    ViewData["Title"] = "Upload";
+}
+
+<h2>Payment Upload</h2>
+
+<form asp-controller="Home" asp-action="Upload" method="post"
+      enctype="multipart/form-data">
+
+    <input type="file" name="file" />
+    <button type="submit">Upload File</button>
+</form>
+
+<div class="container">
+    <br />
+    <div style="width:90%; margin:0 auto;">
+        <table border="1" class="table table-bordered table-responsive">
+            <thead>
+                <tr class="btn-primary">
+                    <th>Store Id</th>
+                    <th>Store Name</th>
+                    <th>Store Phone</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in @Model)
+                {
+                    <tr>
+                        <td>@item.Store_id</td>
+                        <td>@item.Store_name</td>
+                        <td>@item.Store_phone</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,87 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Payment Upload</h2>
+
+<input type="file" id="file" name="file" />
+<input type="button" id="btnUpload" value="Upload File" />
+
+<div style="width:90%; margin:0 auto;">
+    <table id="example">
+        <thead>
+            <tr>
+                <th>Store Id</th>
+                <th>Store Name</th>
+                <th>Store Phone</th>
+            </tr>
+        </thead>
+    </table>
+</div>
+
+@* Load datatable css *@
+<link href="//cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css" rel="stylesheet" />
+@* Load datatable js *@
+@section Scripts{
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="//cdn.datatables.net/1.10.9/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            var jsonData = {
+                "data": [
+                    {
+                        "Store_id": "2904",
+                        "Store_name": "EL CAMPO,TX",
+                        "Store_phone": "WHARTON"
+                    },
+                    {
+                        "Store_id": "2913",
+                        "Store_name": "DAVENPORT,IA",
+                        "Store_phone": "SCOTT"
+                    }]
+            };
+            $('#btnUpload').click(function () {
+                var fileInput = document.getElementById('file');
+                var file = fileInput.files[0];
+                var formData = new FormData();
+                formData.append('file', file);
+
+                $.ajax({
+                    url: '/Home/UploadDatatable',
+                    type: "POST",
+                    contentType: false, // Not to set any content header
+                    processData: false, // Not to process data
+                    data: formData,
+                    success: function (data) {
+                        //myJsonData = data;
+                        //populateDataTable(myJsonData);
+                        //assignToEventsColumns(data);
+                        $('#example').DataTable({
+                            "bAutoWidth": false,
+                            "datatype": "json",
+                            data: JSON.stringify(data),
+                            "columns": [
+                                { "data": "Store_id" },
+                                { "data": "Store_name" },
+                                { "data": "Store_phone" }
+                            ]
+                        })
+                    }
+                });
+
+                //function assignToEventsColumns(jsonData) {
+                //    var table = $('#example').DataTable({
+                //        "bAutoWidth": false,
+                //        "datatype": "json",
+                //        data: jsonData.data,
+                //        "columns": [
+                //            { "data": "Store_id" },
+                //            { "data": "Store_name" },
+                //            { "data": "Store_phone" }
+                //        ]
+                //    })
+                //}
+            });
+        });
+    </script>
+}

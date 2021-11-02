@@ -1,0 +1,116 @@
+C:\Users\raja.bose\source\repos\Dollar\Dollar\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\raja.bose\source\repos\Dollar\Dollar\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\raja.bose\source\repos\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.exe
+C:\Users\raja.bose\source\repos\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.deps.json
+C:\Users\raja.bose\source\repos\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.runtimeconfig.json
+C:\Users\raja.bose\source\repos\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.runtimeconfig.dev.json
+C:\Users\raja.bose\source\repos\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.dll
+C:\Users\raja.bose\source\repos\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.pdb
+C:\Users\raja.bose\source\repos\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.Views.dll
+C:\Users\raja.bose\source\repos\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.Views.pdb
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.csproj.AssemblyReference.cache
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.AssemblyInfoInputs.cache
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.AssemblyInfo.cs
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.csproj.CoreCompileInputs.cache
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.RazorAssemblyInfo.cache
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.RazorAssemblyInfo.cs
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\staticwebassets\Dollar.StaticWebAssets.Manifest.cache
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\staticwebassets\Dollar.StaticWebAssets.xml
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\scopedcss\bundle\Dollar.styles.css
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.TagHelpers.input.cache
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.TagHelpers.output.cache
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.RazorCoreGenerate.cache
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.RazorTargetAssemblyInfo.cache
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.RazorTargetAssemblyInfo.cs
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.Views.pdb
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.dll
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.pdb
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.genruntimeconfig.cache
+C:\Users\raja.bose\source\repos\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.csproj.CopyComplete
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.exe
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.deps.json
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.runtimeconfig.json
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.runtimeconfig.dev.json
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.dll
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.pdb
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.Views.dll
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.Views.pdb
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.csproj.AssemblyReference.cache
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.AssemblyInfoInputs.cache
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.AssemblyInfo.cs
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.csproj.CoreCompileInputs.cache
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.RazorAssemblyInfo.cache
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.RazorAssemblyInfo.cs
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\staticwebassets\Dollar.StaticWebAssets.Manifest.cache
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\staticwebassets\Dollar.StaticWebAssets.xml
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\scopedcss\bundle\Dollar.styles.css
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.TagHelpers.input.cache
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.TagHelpers.output.cache
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.RazorCoreGenerate.cache
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.RazorTargetAssemblyInfo.cache
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.RazorTargetAssemblyInfo.cs
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.Views.pdb
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.dll
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.pdb
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.genruntimeconfig.cache
+C:\Users\raja.bose\OneDrive - Accenture\proj bkup\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.csproj.CopyComplete
+C:\Vipin\Codes\Dollar\Dollar\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Vipin\Codes\Dollar\Dollar\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Vipin\Codes\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.exe
+C:\Vipin\Codes\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.deps.json
+C:\Vipin\Codes\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.runtimeconfig.json
+C:\Vipin\Codes\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.runtimeconfig.dev.json
+C:\Vipin\Codes\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.dll
+C:\Vipin\Codes\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.pdb
+C:\Vipin\Codes\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.Views.dll
+C:\Vipin\Codes\Dollar\Dollar\bin\Debug\netcoreapp3.1\Dollar.Views.pdb
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.AssemblyInfoInputs.cache
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.AssemblyInfo.cs
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.csproj.CoreCompileInputs.cache
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.MvcApplicationPartsAssemblyInfo.cache
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.RazorAssemblyInfo.cache
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.RazorAssemblyInfo.cs
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\staticwebassets\Dollar.StaticWebAssets.Manifest.cache
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\staticwebassets\Dollar.StaticWebAssets.xml
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\scopedcss\bundle\Dollar.styles.css
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.TagHelpers.input.cache
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.TagHelpers.output.cache
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.RazorCoreGenerate.cache
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Upload.cshtml.g.cs
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\Home\UploadDatatable.cshtml.g.cs
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.RazorTargetAssemblyInfo.cache
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.RazorTargetAssemblyInfo.cs
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.Views.pdb
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.dll
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.pdb
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.genruntimeconfig.cache
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.csproj.CopyComplete
+C:\Vipin\Codes\Dollar\Dollar\obj\Debug\netcoreapp3.1\Dollar.csproj.AssemblyReference.cache
