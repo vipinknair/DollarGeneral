@@ -53,34 +53,18 @@
                     processData: false, // Not to process data
                     data: formData,
                     success: function (data) {
-                        //myJsonData = data;
-                        //populateDataTable(myJsonData);
-                        //assignToEventsColumns(data);
                         $('#example').DataTable({
                             "bAutoWidth": false,
                             "datatype": "json",
-                            data: JSON.stringify(data),
+                            data: data.jsonData,
                             "columns": [
-                                { "data": "Store_id" },
-                                { "data": "Store_name" },
-                                { "data": "Store_phone" }
+                                { "data": "store_id" },
+                                { "data": "store_name" },
+                                { "data": "store_phone" }
                             ]
                         })
                     }
                 });
-
-                //function assignToEventsColumns(jsonData) {
-                //    var table = $('#example').DataTable({
-                //        "bAutoWidth": false,
-                //        "datatype": "json",
-                //        data: jsonData.data,
-                //        "columns": [
-                //            { "data": "Store_id" },
-                //            { "data": "Store_name" },
-                //            { "data": "Store_phone" }
-                //        ]
-                //    })
-                //}
             });
         });
     </script>

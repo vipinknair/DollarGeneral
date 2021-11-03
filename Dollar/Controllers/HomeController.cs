@@ -56,9 +56,6 @@ namespace Dollar.Controllers
                                            .Select(v => CsvFields.FromCsv(v))
                                            .ToList();
 
-            //string jsonString = JsonSerializer.Serialize(csvSeperator);
-            //string data = "{\"data\":" + jsonString + "}";
-            //return Json(data);
             return Json(new { jsonData=data });
         }
         public IActionResult Upload()
